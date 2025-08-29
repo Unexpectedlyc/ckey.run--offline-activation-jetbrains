@@ -1,3 +1,8 @@
+<p align="center">
+<br>
+        <a href="README.md">中文</a> &nbsp ｜ &nbsp English &nbsp
+</p>
+
 # Offline Activation Tutorial for JetBrains Suite Using ckey.run on Windows | Linux | macOS
 
 > [!IMPORTANT]
