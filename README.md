@@ -2,7 +2,7 @@
 
 > [!IMPORTANT]
 >
-> 验证在IntelliJ IDEA 2025.1.4.1版本上生效，mac跟linux下操作步骤相似
+> 验证在IntelliJ IDEA 2025.1.4.1版本上生效
 
 ## 一、离线安装教程
 
