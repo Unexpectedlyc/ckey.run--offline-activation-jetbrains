@@ -89,5 +89,8 @@ bash ckey.run
 >
 > 完成以上步骤即可离线激活成功
 
-#有用的话给个star✨,谢谢
+# 有用的话给个star✨,谢谢
+## Star历史
+
+[![Star History Chart](https://api.star-history.com/svg?repos=Unexpectedlyc/ckey.run--offline-activation-jetbrains&type=Date)](https://www.star-history.com/#Unexpectedlyc/ckey.run--offline-activation-jetbrains&Date)
 
