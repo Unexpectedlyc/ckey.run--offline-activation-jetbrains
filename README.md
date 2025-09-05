@@ -105,7 +105,4 @@ After execution:
 
 # If you find this helpful, please give a star ✨, thank you!
 ## Star History
-
-## Star History
-
 [![Star History Chart](https://api.star-history.com/svg?repos=Unexpectedlyc/ckey.run--offline-activation-jetbrains&type=Date)](https://www.star-history.com/#Unexpectedlyc/ckey.run--offline-activation-jetbrains&Date)
