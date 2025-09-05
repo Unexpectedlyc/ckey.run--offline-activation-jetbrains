@@ -2,6 +2,7 @@
 <br>
         中文 &nbsp ｜ &nbsp <a href="README.md">English</a> &nbsp
 </p>
+
 # Windows|Linux|MacOS采用ckey.run离线激活jetbrains全家桶教程
 
 > [!IMPORTANT]
